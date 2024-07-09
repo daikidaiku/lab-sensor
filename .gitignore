@@ -1,0 +1,6 @@
+/.env
+/Log
+/Data
+/__pycache__
+/sensorenv
+/.python-version

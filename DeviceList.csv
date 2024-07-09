@@ -1,0 +1,3 @@
+DeviceName,SensorType,MacAddress,Timeout,Retry,Offset_Temp,Offset_Humid,API_URL,Token
+DHT11,DHT11,none,4,3,0,0,,
+OpenWeather,API,none,4,3,0,0,,
